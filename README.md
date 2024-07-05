@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FlyingNeko
+- 👋 Hi
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me goodmorningamv@gmail.com
 
 <!---
